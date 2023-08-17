@@ -38,7 +38,6 @@ For exercise 3, repeat both exercise 1 and 2 as `while` and `do/while` loop solu
 ## Exercise 4: Find Value
 
 In this exercise, you will count from iterate from 1 to n. If you iterate over a given value, then break out the loop and print "Found value!". If you do not find the value in the given range, print "Did not find value".
-
 1. Start with the following code:
 
 ```js
